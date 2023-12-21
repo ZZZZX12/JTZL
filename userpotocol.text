@@ -2,7 +2,7 @@
 	"code": "200",
 	"result": "success!",
 	"type": "0",
-	"userAgContent": "V2VsY29tZSB0byB1c2Ugb3VyIGFwcFxuMS4gWW91IHNob3VsZCBhZ3JlZSB0byB0aGUgdGVybXMgb2YgdGhlIOOAilVzZXIgQWdyZWVtZW5044CLIGFuZCBjb21wbGV0ZSB0aGUgZW50aXJlIHJlZ2lzdHJhdGlvbiBwcm9jZXNzIGFjY29yZGluZyB0byB0aGUgcHJvbXB0cyBvbiB0aGUgcGFnZS4gV2hlbiB0aGUgdXNlciBjbGlja3MgdGhlICJDb25maXJtIiBidXR0b24gZHVyaW5nIHRoZSByZWdpc3RyYXRpb24gcHJvY2VzcywgdGhlIHVzZXIgZnVsbHkgYWNjZXB0cyBhbGwgdGVybXMgdW5kZXIgdGhpcyBhZ3JlZW1lbnQuXG4yLiBVc2VycyBzaG91bGQgZW5zdXJlIHRoZSBhdXRoZW50aWNpdHkgb2YgdGhlIGluZm9ybWF0aW9uIHJlcXVpcmVkIGZvciBlYWNoIHNlcnZpY2UgYnVzaW5lc3Mgd2hlbiB1c2luZyB0aGUgc2VydmljZXMgb2YgdGhpcyBwbGF0Zm9ybS5cbkNsaWNrIENvbmZpcm0gdG8gY29udGludWUgdXNpbmcgb3VyIHNlcnZpY2Vz",
+	"userAgContent": "Welcome to use our app\n1. You should agree to the terms of the 《User Agreement》 and complete the entire registration process according to the prompts on the page. When the user clicks the Confirm button during the registration process, the user fully accepts all terms under this agreement.\n2. Users should ensure the authenticity of the information required for each service business when using the services of this platform.\nClick Confirm to continue using our services",
 	"textColor": "FFFFFF",
 	"agreementTitle": "User Agreement",
 	"start_time": "1702180234",
